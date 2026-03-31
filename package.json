@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "This is all work that's part of the Intro to Node course from Frontend Masters.",
   "main": "index.js",
+  "bin": {
+    "note": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
