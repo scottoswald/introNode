@@ -1,1 +1,1 @@
-const count = num => num;
+export const count = num => num;
