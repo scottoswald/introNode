@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/scottoswald/introNode/issues"
   },
-  "homepage": "https://github.com/scottoswald/introNode#readme"
+  "homepage": "https://github.com/scottoswald/introNode#readme",
+  "dependencies": {
+    "yargs": "^18.0.0"
+  }
 }
