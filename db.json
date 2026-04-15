@@ -1,3 +1,25 @@
 {
-  "notes": []
+  "notes": [
+    {
+      "tags": [],
+      "content": "wash car",
+      "id": 1776212454642
+    },
+    {
+      "tags": [
+        "leisure",
+        " food"
+      ],
+      "content": "make dinner",
+      "id": 1776212464029
+    },
+    {
+      "tags": [
+        "work",
+        " serious"
+      ],
+      "content": "clean my bedroom",
+      "id": 1776212473093
+    }
+  ]
 }
